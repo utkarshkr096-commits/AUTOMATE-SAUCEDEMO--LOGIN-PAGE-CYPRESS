@@ -32,7 +32,7 @@ CYPRESSPROJECT/
 └── README.md
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/utkarshkr096-commits/AUTOMATE-SAUCEDEMO--LOGIN-PAGE-CYPRESS.git
 cd your-repo-name
 2️⃣ Install Dependencies
 npm install
